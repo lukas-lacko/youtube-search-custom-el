@@ -1,4 +1,6 @@
-### Kontent.ai Custom Element utilizing Google API for video search within the element
+### Kontent.ai Custom Element - Youtube Video with Search
+
+Elements is utilizing Google API for video search.
 
 **Install dependencies**
 `NPM install`
