@@ -1,4 +1,4 @@
-## Kontent.ai Custom Element utilizing Google API for video search within the element
+### Kontent.ai Custom Element utilizing Google API for video search within the element
 
 **Install dependencies**
 `NPM install`
