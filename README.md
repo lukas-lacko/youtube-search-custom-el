@@ -1,10 +1,10 @@
-##Kontent.ai Custom Element utilizing Google API for video search within the element
+## Kontent.ai Custom Element utilizing Google API for video search within the element
 
-#Install dependencies
-NPM install
+# Install dependencies
+`NPM install`
 
-#Run
-NPM run dev
+# Run
+`NPM run dev`
 
 Rename .env.example to .env and edit the API_KEY_VALUE according to your youtube API value.
 
